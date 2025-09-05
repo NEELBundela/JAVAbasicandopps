@@ -7,6 +7,6 @@ public class Player <T>{
         this.item = item;
     }
     public T getItem(){
-        return this.item=item;
+        return this.item;
     }
 }
