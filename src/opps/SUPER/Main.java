@@ -2,7 +2,7 @@ package opps.SUPER;
 
 public class Main {
     public static void main(String[] args) {
-
+        //super = it's reference variables,that refers to parent class object
 
         Person person = new Person("Neel", "Bundela");
         Student s=new Student("Namra","Patel",8.5);
